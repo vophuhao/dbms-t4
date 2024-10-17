@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\munform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\source\\repos\\project-dbms\\dbms-t4\\dbms\\dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\source\\repos\\Project-DBMS\\dbms-t4\\DBMS\\dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -154,8 +154,7 @@
               "RelativeToolTip": "DBMS\\mydb.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-17T09:21:59.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-17T09:21:59.341Z"
             },
             {
               "$type": "Document",
