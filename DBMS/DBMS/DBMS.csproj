@@ -76,6 +76,12 @@
     <Compile Include="listProduct.Designer.cs">
       <DependentUpon>listProduct.cs</DependentUpon>
     </Compile>
+    <Compile Include="MunForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MunForm.Designer.cs">
+      <DependentUpon>MunForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="mydb.cs" />
     <Compile Include="product.cs" />
     <Compile Include="Program.cs" />
