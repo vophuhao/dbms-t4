@@ -12,8 +12,6 @@ namespace DBMS
 
     internal class mydb
     {
-
-        
             SqlConnection con = new SqlConnection(@"Data Source=26.168.186.68;Initial Catalog=DOAN;Persist Security Info=True;User ID=hoa;Password=123;Encrypt=False");
 
             // get the connection
