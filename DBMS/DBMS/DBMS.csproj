@@ -102,6 +102,9 @@
     <EmbeddedResource Include="addProduct.resx">
       <DependentUpon>addProduct.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="HoaForm.resx">
+      <DependentUpon>HoaForm.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Kho.resx">
       <DependentUpon>Kho.cs</DependentUpon>
     </EmbeddedResource>
