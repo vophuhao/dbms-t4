@@ -63,6 +63,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="HoaForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HoaForm.Designer.cs">
+      <DependentUpon>HoaForm.cs</DependentUpon>
+    </Compile>
     <Compile Include="Kho.cs">
       <SubType>Form</SubType>
     </Compile>
