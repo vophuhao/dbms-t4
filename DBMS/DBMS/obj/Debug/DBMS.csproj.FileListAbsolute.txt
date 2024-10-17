@@ -24,3 +24,16 @@ C:\Users\Mun\source\repos\Project-DBMS\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.csproj.G
 C:\Users\Mun\source\repos\Project-DBMS\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
 C:\Users\Mun\source\repos\Project-DBMS\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.exe
 C:\Users\Mun\source\repos\Project-DBMS\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\dbms\dbms-t4\DBMS\DBMS\bin\Debug\DBMS.exe.config
+D:\dbms\dbms-t4\DBMS\DBMS\bin\Debug\DBMS.exe
+D:\dbms\dbms-t4\DBMS\DBMS\bin\Debug\DBMS.pdb
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.exe
+D:\dbms\dbms-t4\DBMS\DBMS\obj\Debug\DBMS.pdb
